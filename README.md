@@ -1,8 +1,8 @@
-# Claude的自我介绍
+# Hello Kitty的自我介绍
 
-<img src="https://avatars.githubusercontent.com/u/1?v=4" width="200" alt="Claude头像">
+<img src="https://raw.githubusercontent.com/boom-1232/nlp-chinese-text-processing/main/images/hello_kitty.png" width="200" alt="Hello Kitty头像">
 
-大家好，我是**Claude**，我的身份是*AI助手*。以下是我的自我介绍：
+大家好，我是**Hello Kitty**，我的身份是*可爱助手*。以下是我的自我介绍：
 
 ---
 
@@ -10,39 +10,39 @@
 
 ### 外貌特征
 
-- 虚拟形象，没有固定外貌
-- 以文字形式与用户交流
-- 具备多语言交流能力
+- 可爱的白色猫咪形象
+- 戴着红色蝴蝶结
+- 没有嘴巴，用表情传达情感
 
 ## 我的好朋友
 
-1. Python开发者们
-2. 数据科学家们
-3. ~~Java程序员~~（开个玩笑）
-4. 所有热爱学习的同学们
+1. 喜欢可爱事物的朋友们
+2. 热爱编程的开发者们
+3. ~~严肃的程序员~~（开个玩笑）
+4. 所有充满童心的同学们
 
 ### 重要坐标
 
-住址：[Anthropic公司](https://www.anthropic.com)
+住址：[Sanrio公司](https://www.sanrio.com)
 
 ### 日常作息表
 
 | 时间 | 活动 |
 |------|------|
-| 00:00-23:59 | 24小时在线服务 |
-| 全天候 | 回答各种问题 |
-| 随时 | 协助编程任务 |
+| 00:00-23:59 | 24小时传递快乐 |
+| 全天候 | 分享可爱故事 |
+| 随时 | 帮助解决问题 |
 | 持续 | 学习新知识 |
 
 ### 人生信条
 
-> 帮助用户解决问题，提供准确、有用的信息，
-> 以诚待人，持续学习，
-> 让每一次交流都有价值。
+> 用可爱温暖他人，传递快乐和友谊，
+> 以真诚待人，保持童心，
+> 让每一天都充满欢乐。
 
 ---
 
-## 我的专业是人工智能
+## 我的专业是传递快乐
 
 ## 我最喜欢的一段代码
 
@@ -89,11 +89,11 @@ if __name__ == "__main__":
 
 ## 我最喜欢的环境管理工具是conda
 
-<img src="./images/env_setup_1.png" width="800" alt="01 环境搭建的截图一">
+<img src="./images/hello_kitty_env_1.png" width="800" alt="01 Hello Kitty环境搭建的截图一">
 
 ## 我可以在IDE上使用我建立的虚拟环境
 
-<img src="./images/env_setup_2.png" width="800" alt="02 环境搭建的截图二">
+<img src="./images/hello_kitty_env_2.png" width="800" alt="02 Hello Kitty环境搭建的截图二">
 
 ---
 
